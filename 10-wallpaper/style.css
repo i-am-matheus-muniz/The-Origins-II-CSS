@@ -1,0 +1,13 @@
+div#outer {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
+
+div#inner {
+    width: 400px;
+    height: 400px;
+    background-image: url(https://www.petz.com.br/blog//wp-content/uploads/2022/07/cuidados-especiais-com-husky-siberiano.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
